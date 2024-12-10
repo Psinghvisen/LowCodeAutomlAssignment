@@ -1,9 +1,10 @@
 # LOW CODE AUTOML assignments - Part 1 - Autogluon
-Autogluon Kaggle competition 
-a)
-colab link: https://colab.research.google.com/drive/1ybFu_1dYSZ6uoJHApwsGSOI5ew9SFbsi?usp=sharing
 
-b)
+a)Autogluon Kaggle competition  1
+
+Colab link: https://colab.research.google.com/drive/1ybFu_1dYSZ6uoJHApwsGSOI5ew9SFbsi?usp=sharing
+
+b)Autogluon Kaggle competition  2
 
 
 Autogluon Tabular Classification Regression :
@@ -17,10 +18,12 @@ Colab link :  https://colab.research.google.com/drive/1vjH6lBwaZKXX_unELD_aB4y17
 
 Extra credits:
 
-3. Autogluon tabular-feature-engineering
+3.Autogluon tabular-feature-engineering
+   
 Colab link : https://colab.research.google.com/drive/1i3ebQeknN3GK2HGWzO_NymPcdhKFxj3y?usp=sharing
 
 4.Autogluon Tabular Multilabel
+
 Colab link:  https://colab.research.google.com/drive/1i3ebQeknN3GK2HGWzO_NymPcdhKFxj3y?usp=sharing
 
 
