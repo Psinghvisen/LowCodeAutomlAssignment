@@ -1,4 +1,4 @@
-# LOW CODE AUTOML assignments - Part 1 - Autogluon
+# LOW CODE AUTOML ASSIGNMENT - PART 1 - Autogluon
 
 a)Autogluon Kaggle competition  1
 
