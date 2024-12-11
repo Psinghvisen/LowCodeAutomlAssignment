@@ -15,6 +15,10 @@ Colab link:
 
 https://colab.research.google.com/drive/1ybFu_1dYSZ6uoJHApwsGSOI5ew9SFbsi?usp=sharing
 
+Video Description link:
+
+https://youtu.be/g1AEUsa3vR0
+
 
 #Autogluon Tabular Classification Regression :
 
