@@ -27,6 +27,10 @@ Colab link:
 
 https://colab.research.google.com/drive/1z1OK1tDDzRTAgewlO6ZA7Mz828T2lErZ?usp=sharing
 
+Video Description link:
+
+https://youtu.be/xr9_ZA9wXDY
+
 2.Tabular Multimodal
 
 Colab link :  
