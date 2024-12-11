@@ -12,6 +12,10 @@ Colab link:
 
 https://colab.research.google.com/drive/1mNIGKmCit46R-DtFHcaftFKfqh2TCmqW?usp=sharing
 
+Video Description link:
+
+https://youtu.be/syD8xpkf0Tk
+
 
 
 
