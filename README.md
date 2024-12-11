@@ -38,6 +38,11 @@ Colab link :
 https://colab.research.google.com/drive/1vjH6lBwaZKXX_unELD_aB4y17Oi4H94h?usp=sharing
 
 
+Video Description link:
+
+https://youtu.be/nMYNJGQX_rA
+
+
 Extra credits:
 
 3.Autogluon tabular-feature-engineering
